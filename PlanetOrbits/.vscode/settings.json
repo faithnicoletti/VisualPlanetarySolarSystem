@@ -4,5 +4,6 @@
     "java.project.referencedLibraries": [
         "lib/*.*",
         "/Users/faith/bunkerhill/java239/javafx-sdk-21/lib/*.jar"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
  }
